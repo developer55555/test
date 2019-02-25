@@ -1,0 +1,1 @@
+<div id="footer">Copyright &copy; <span style="color:#FF5200">VIP</span><span style="color:#0065FF">.Com</span> , Powered by <a href="http://www.mvip2018.com" target="_blank">VIP影院</a></div>
