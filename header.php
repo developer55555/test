@@ -34,7 +34,9 @@ include ('./inc/aik.config.php');
 </ul>
 </li>
 
+<!--
 <li class="menu-item"><a href="https://www.huzhan.com/ishop19325/" target="_blank">更多源码</a></li>
+-->
 
 <!--
 <li class="menu-item  menu-item-has-children"><a href="./ys/ga.php?m=aHR0cDovL2xpc3QueW91a3UuY29tL2NhdGVnb3J5L3ZpZGVvL2NfMF9kXzFfc18yX3BfMQ==">综合片库</a>
